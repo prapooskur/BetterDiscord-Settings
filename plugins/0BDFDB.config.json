@@ -1,0 +1,15 @@
+{
+	"changeLogs": {
+		"SendLargeMessages": "1.6.8",
+		"ShowHiddenChannels": "3.0.2",
+		"SplitLargeMessages": "1.7.0"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	}
+}
